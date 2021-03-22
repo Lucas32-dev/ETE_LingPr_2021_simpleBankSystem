@@ -66,13 +66,10 @@ while(true)
       }
     clients[clientDestinyPosition][3] += value
     window.alert("Deposit made with success")
-
   }
 
   function Transfer(value)
   {
-
-
     destiny = window.prompt("Insert the token destiny")
     if(destiny == clientFound[1])
       {
@@ -96,7 +93,6 @@ while(true)
     clients[clientPosition][3] -= value
     clients[clientDestinyPosition][3] += value
     window.alert("Transference effected")
-
   }
 
   //Logic of main system
