@@ -1,2 +1,5 @@
 Arquivo teste
+
 Alteração pelos arquivos locais
+
+Alteração pelo navegador.
